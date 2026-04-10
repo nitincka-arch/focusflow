@@ -1,1 +1,1 @@
-{\n  "name": "focusflow",\n  "version": "1.0.0",\n  "scripts": {\n    "build": "your-build-command-here",\n    "dev": "your-dev-command-here"\n  },\n  "dependencies": {}\n}
+{"name":"focusflow","version":"1.0.0","scripts":{"build":"your-build-command-here","dev":"your-dev-command-here"},"dependencies":{}}
